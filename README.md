@@ -12,11 +12,12 @@ To find out which low-budget films will go viral, Amazing Prime, a streaming ser
     - Deliverable 4: Create the Movie Database
 
 ## Resources
-    1- Extract - ETL_function_test.ipynb
-    2- Transform - ETL_clean_wiki_movies.ipynb & ETL_clean_kaggle_data.ipynb
-    3- Load - ETL_create_database.ipynb
-    4- Languages: Python, SQL
-    5- Tools: Jupyter Notebook, JSON, Pandas, NumPy, sqlalchemy, psycopg2
+1- Extract - [ETL_function_test.ipynb](https://github.com/Peteresis/Movies-ETL/blob/7b9abe8a28c5a7084835b42e62560e5b63605c7a/ETL_function_test.ipynb)<br/>
+2.1- Transform - [ETL_clean_wiki_movies.ipynb](https://github.com/Peteresis/Movies-ETL/blob/7b9abe8a28c5a7084835b42e62560e5b63605c7a/ETL_clean_wiki_movies.ipynb)<br/>
+2.2- Transform [ETL_clean_kaggle_data.ipynb](https://github.com/Peteresis/Movies-ETL/blob/7b9abe8a28c5a7084835b42e62560e5b63605c7a/ETL_clean_kaggle_data.ipynb)<br/>
+3- Load - [ETL_create_database.ipynb](https://github.com/Peteresis/Movies-ETL/blob/7b9abe8a28c5a7084835b42e62560e5b63605c7a/ETL_create_database.ipynb)<br/>
+4- Languages: Python, SQL<br/>
+5- Tools: Jupyter Notebook, JSON, Pandas, NumPy, sqlalchemy, psycopg2<br/>
 
 ## Results
 **Extract Phase** - Data from two different file formats, csv and json, is read into the Python environment using Pandas.
